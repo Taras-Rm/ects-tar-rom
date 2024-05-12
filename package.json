@@ -1,0 +1,19 @@
+{
+  "name": "ects-tar-rom",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taras-Rm/ects-tar-rom.git"
+  },
+  "author": "Tar Rom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taras-Rm/ects-tar-rom/issues"
+  },
+  "homepage": "https://github.com/Taras-Rm/ects-tar-rom#readme"
+}
